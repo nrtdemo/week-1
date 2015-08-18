@@ -6,7 +6,7 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer:
+Answer: because in order that the declining number haven't value zero. And program is not error
 
 
 # Resources
