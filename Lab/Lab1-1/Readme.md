@@ -7,15 +7,15 @@
 
 
 ## Revision, put your commit number here
-* Sort from larger to smaller:
-* Without flag:
+* Sort from larger to smaller: 9bd6db26 
+* Without flag: 5bbb00ea 
 
 Narathip Santhip 570611019
 
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: if (input[i] > input[i + 1])
+Answer: receive from data and sort by while-loop to sort in if-else and checking is smaller or larger after that swap number position until number are sorted.
 
 2. What if two numbers equal, what will happen? 
 
@@ -23,7 +23,7 @@ Answer: dont sort and sort next position
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 15 times
+Answer: 27 times
 
 4. Why we need flag variable ? 
 
@@ -31,4 +31,4 @@ Answer: because check in processing that on work or not work
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer: faster but program will to infinite
+Answer: faster bucause program is not processing in sorting.
