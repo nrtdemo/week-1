@@ -8,6 +8,7 @@ namespace Lab1_2
 {
     class BubbleSortFunction
     {
+        //Get input from command line
         public int[] input()
         {
             int count;
