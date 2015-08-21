@@ -5,10 +5,12 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 ## Revision, put your commit number here
-* Three functions:
-* Get input from command line:
+* Three functions: 91e294e5
+* Get input from command line: 2233a5f2
+
+Narathip Santhip 570611019
 
 ## Questions
 1. What are the limitations of your new code?
 
-Answer:
+Answer: we can get count number as we identified only.
