@@ -8,7 +8,7 @@ Narathip Santhip 570611019
 # Questions
 * Why we need "if-else" in function process?
 
-Answer: because in order that the declining number haven't value zero. And program is not error
+Answer: because in order that the declining number to haven't value zero. And program is not error
 
 
 # Resources
