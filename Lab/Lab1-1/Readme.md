@@ -10,23 +10,25 @@
 * Sort from larger to smaller:
 * Without flag:
 
+Narathip Santhip 570611019
+
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: 
+Answer: if (input[i] > input[i + 1])
 
 2. What if two numbers equal, what will happen? 
 
-Answer: 
+Answer: dont sort and sort next position
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 
+Answer: 15 times
 
 4. Why we need flag variable ? 
 
-Answer: 
+Answer: because check in processing that on work or not work
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer: faster but program will to infinite
